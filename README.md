@@ -26,6 +26,7 @@
     + ![image](https://user-images.githubusercontent.com/92384494/166890398-1466519d-8c5c-4b43-8d55-2ebe3d43389a.png)
     + link Colab : https://colab.research.google.com/drive/1kMTmDntUGu6AfKRN_mRO9aTzfVv46nD_?usp=sharing
   - Quá trình huấn luyện kết thúc ta sẽ thu được file trong số của mô hình dưới dạng file .weight
+    + file trọng số đã train sẵn : https://drive.google.com/file/d/1EW-g4Ceua2zQ5f4gKHlYYJBpheN3rLts/view?usp=sharing
 ### V. Dự đoán
   - Để sử dụng được GPU trong quá trình dự đoán ta cần cài đặt Cuda Toolkit và Cudnn
       + Link cài đặt : https://www.youtube.com/watch?v=PlW9zAg4cx8&t=168s
