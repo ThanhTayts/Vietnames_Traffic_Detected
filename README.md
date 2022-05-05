@@ -21,5 +21,20 @@
 ### VI. Quá trình huấn luyện
   - Tham khảo các bước tải và cấu hình darknet trên Colab 
     + link bài viết : https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/
-    + like video : https://www.youtube.com/watch?v=-NEB5P-SLi0&t=372s
+    + ![image](https://user-images.githubusercontent.com/92384494/166890381-58a11a5d-ce38-4e47-9017-af206052aa3f.png)
+    + link video : https://www.youtube.com/watch?v=-NEB5P-SLi0&t=372s
+    + ![image](https://user-images.githubusercontent.com/92384494/166890398-1466519d-8c5c-4b43-8d55-2ebe3d43389a.png)
     + link Colab : https://colab.research.google.com/drive/1kMTmDntUGu6AfKRN_mRO9aTzfVv46nD_?usp=sharing
+### V. Dự đoán
+  - Kết quả dự đoán trên hình ảnh
+  
+    ![image](https://user-images.githubusercontent.com/92384494/166890679-f6a8770c-5ce2-4987-8cd8-1312ccc18517.png)
+    ![image](https://user-images.githubusercontent.com/92384494/166890698-57227624-5174-47c3-93b1-f6c1d9aa295a.png)
+    ![image](https://user-images.githubusercontent.com/92384494/166890762-36b4e8b0-46a8-47e7-b5d3-206a3325fe9a.png)
+    ![image](https://user-images.githubusercontent.com/92384494/166890784-9da00278-4f9f-4489-b545-c2b9172f00bc.png)
+  - Kết quả dự đoán trên video
+ 
+    ![image](https://user-images.githubusercontent.com/92384494/166890867-f91d3318-eab1-4bcc-a013-21e68c8008fd.png)
+    ![image](https://user-images.githubusercontent.com/92384494/166890887-33f7fca0-58a2-4002-88b3-f631ae8bc2fd.png)
+
+
