@@ -7,5 +7,13 @@
   - Về cấu hình và huấn luyện mô hình: Ta sử dụng Google Colab để cấu hình các thông số của mô hình mạng Yolo V4 và tiến hành huấn luyện và đưa ra dự đoán
   - Về dự đoán kết quả : Ta sẽ sử dụng phần mềm Pycharm kết hợp cùng với Nvidia và Tensorflow để có thể sử dụng GPU trong quá trình dự đoán qua hình ảnh, video có sẵn và luồng video trực tuyến từ webcam
   - ![image](https://user-images.githubusercontent.com/92384494/166888764-08c024c9-5f4d-4d89-a9a1-183d8bf411bf.png)
+### II.Quá trình thu thập và xử lý dữ liệu
+ - Tham khảo video : https://www.youtube.com/watch?v=sKDysNtnhJ4&t=34s
+ - Code : https://github.com/haroonshakeel/simple_image_download
+ - ![image](https://user-images.githubusercontent.com/92384494/166889195-7e19ee8d-5d8c-417b-811d-3bd6d2021ed6.png)
+
+### III.Quá trình gán nhãn dữ liệu 
+ - Tham khảo video : https://www.youtube.com/watch?v=sKDysNtnhJ4&t=34s
+ - Code : https://github.com/tzutalin/labelImg
 
 
