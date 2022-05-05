@@ -14,6 +14,12 @@
 
 ### III.Quá trình gán nhãn dữ liệu 
  - Tham khảo video : https://www.youtube.com/watch?v=sKDysNtnhJ4&t=34s
+ - ![image](https://user-images.githubusercontent.com/92384494/166889758-501d020d-833e-4bf3-bd4a-46bc8a4ac04c.png)
  - Code : https://github.com/tzutalin/labelImg
-
-
+ - ![image](https://user-images.githubusercontent.com/92384494/166889783-f50565b5-f5ba-4779-af45-94a7c69c52e4.png)
+ - Tập dữ liệu đã được gán nhãn : https://drive.google.com/drive/folders/1POPUjSwON_yRD_Db9YZa6BMBHOpinCDz?usp=sharing
+### VI. Quá trình huấn luyện
+  - Tham khảo các bước tải và cấu hình darknet trên Colab 
+    + link bài viết : https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/
+    + like video : https://www.youtube.com/watch?v=-NEB5P-SLi0&t=372s
+    + link Colab : https://colab.research.google.com/drive/1kMTmDntUGu6AfKRN_mRO9aTzfVv46nD_?usp=sharing
