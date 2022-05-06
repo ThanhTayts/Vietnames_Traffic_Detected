@@ -1,4 +1,4 @@
-# Vietnames_Traffic_Detected
+# HỆ THỐNG PHÂN LOẠI BIỂN BÁO GIAO THÔNG HỖ TRỢ CHO CÁC PHƯƠNG TIỆN TỰ HÀNH
 ## Tổng Quan : Các phương tiện tự hành đang dần trở nên phổ biến trên toàn thế giới, hiện nay các công ty lớn như Tesla, Uber, Google, Mercedes-Benz, Toyota, Ford, Audi, và ở Việt Nam là VinFast đang nghiên cứu về các công nghệ hỗ trợ cho xe tự hành chẳng hạn như, đo khoảng cách tránh vật cản, nhận điện được các loại biển báo giao thông cũng như đèn tín hiệu để điều khiển. Việc ứng dụng công nghệ vào nhân dạng và phân loại biển báo và tín hiệu giao thông có thể giúp các phương tiện tự hành trở nên tiến tiến và hiện đại hơn, hoạt động chính xác hơn và tránh được các tai nạn va chạm xảy ra.
 ### I.Tổng quan hệ thống :
   - Phần cứng của hệ thống bao gồm : Máy tính xử lý và Camera, Camera sẽ được kết nối với máy tính và truyền dữ liệu video về để máy tính phân tích và xử lý
