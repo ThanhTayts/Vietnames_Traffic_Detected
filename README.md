@@ -33,12 +33,16 @@
   - Conver file trong số mô hình YoLo V4 (.weight) sau khi đã training sang Tensorflow
       + Link video : https://www.youtube.com/watch?v=iPwepy-SVCQ&t=524s
       + Link code : https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+      
   - Kết quả dự đoán trên hình ảnh
+  
    ![image](https://user-images.githubusercontent.com/92384494/166890679-f6a8770c-5ce2-4987-8cd8-1312ccc18517.png)
    ![image](https://user-images.githubusercontent.com/92384494/166890698-57227624-5174-47c3-93b1-f6c1d9aa295a.png)
    ![image](https://user-images.githubusercontent.com/92384494/166890762-36b4e8b0-46a8-47e7-b5d3-206a3325fe9a.png)
    ![image](https://user-images.githubusercontent.com/92384494/166890784-9da00278-4f9f-4489-b545-c2b9172f00bc.png)
+   
   - Kết quả dự đoán trên video
+  
     ![image](https://user-images.githubusercontent.com/92384494/166890867-f91d3318-eab1-4bcc-a013-21e68c8008fd.png)
     ![image](https://user-images.githubusercontent.com/92384494/166890887-33f7fca0-58a2-4002-88b3-f631ae8bc2fd.png)
 
